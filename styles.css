@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, serif;
+  background: #fff;
+  color: #000;
+  line-height: 1.6;
+  padding: 40px 0; /* top/bottom breathing room */
+}
+
+.container {
+  max-width: 700px;   /* keeps text column narrow */
+  margin: 0 auto;     /* centers horizontally */
+  padding: 0 20px;    /* side padding for small screens */
+}
